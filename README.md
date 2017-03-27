@@ -1,8 +1,10 @@
 # Remarkable
 
-###A Fully Featured Markdown Editor for Linux
+### This fork
+Applies upstream PRs: #51 #53 #70 #90 #94 #116 #117
+Next fix will be issue #115
 
-(Note: Work on Remarkable will resume soon)
+### A Fully Featured Markdown Editor for Linux
 
 Remarkable is an open source Markdown Editor for Linux.
 You can download the latest version from the [project site](https://remarkableapp.github.io/linux.html).
