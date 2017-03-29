@@ -1,8 +1,11 @@
 # Remarkable
 
 ### This fork
+
 Applies upstream PRs: #51 #53 #70 #90 #94 #116 #117
-Next fix will be issue https://github.com/carlos22/Remarkable/issues/1
+
+Roadmap:
+* Links should be opend in a real webbrowser #1
 
 ### A Fully Featured Markdown Editor for Linux
 
